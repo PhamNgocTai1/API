@@ -1,0 +1,52 @@
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\api.exe
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\api.deps.json
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\api.dll
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\api.pdb
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MVC Core\API\api\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.csprojAssemblyReference.cache
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\api.styles.css
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.dll
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.pdb
+E:\MVC Core\API\api\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\api.exe
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\api.deps.json
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\api.dll
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\api.pdb
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\api\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\api.styles.css
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.dll
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.pdb
+C:\Users\PC\Desktop\api\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
